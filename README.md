@@ -37,7 +37,6 @@ task.resume()
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
 <img src="https://i.imgur.com/WPPJjBq.gif" width=250><br>
 
 ### Notes
